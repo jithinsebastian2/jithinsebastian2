@@ -1,6 +1,6 @@
 ### Hi there, I'm Jithin Sebastian 👋
 
-## I'm a Husband, Developer, and Freelancer!!
+## I'm a Developer, Freelancer and Open source enthusiast
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other tech enthusiasts and open source projects
