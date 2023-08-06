@@ -16,7 +16,7 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCW1KtqofbVRWP52gOepyrXw#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCW1KtqofbVRWP52gOepyrXw#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](hhttps://twitter.com/JithinSeba45215#gh-light-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/JithinSeba45215#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/JithinSeba45215#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jithin-sebastian-366272107#gh-light-mode-only)
