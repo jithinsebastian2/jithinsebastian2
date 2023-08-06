@@ -27,7 +27,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,jquery,html,css,react,redux,express,mongodb,angular,vue,graphql,d3,jest,sass,materialui,styledcomponents,tailwind,svg,mysql,androidstudio,docker,figma,firebase,git,heroku,jenkins,netlify,postman,webpack,vercel,vscode,xd,wordpress,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,jquery,html,css,react,redux,express,mongodb,angular,vue,graphql,d3,jest,sass,materialui,styledcomponents,tailwind,svg,mysql,androidstudio,docker,figma,firebase,git,heroku,jenkins,netlify,postman,webpack,vercel,vscode,xd,wordpress,stackoverflow)])
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
