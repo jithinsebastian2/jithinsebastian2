@@ -10,24 +10,31 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://github.com/jithinsebastian2#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://github.com/jithinsebastian2#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCW1KtqofbVRWP52gOepyrXw#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCW1KtqofbVRWP52gOepyrXw#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](hhttps://twitter.com/JithinSeba45215#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/JithinSeba45215#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jithin-sebastian-366272107#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jithin-sebastian-366272107#gh-dark-mode-only)
+<!-- &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
 
 ### Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,jquery,html,css,react,redux,express,mongodb,angular,vue,graphql,d3,jest,sass,materialui,styledcomponents,tailwind,svg,mysql,androidstudio,docker,figma,firebase,git,heroku,jenkins,netlify,postman,webpack,vercel,vscode,xd,wordpress,stackoverflow)](https://skillicons.dev)
+
+<!-- <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="jithin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jithinsebastian2&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details> -->
 
 <!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
